@@ -1,0 +1,21 @@
+# Site settings
+title: The Kat Code 
+header-img: img/home-bg.png
+email: katherine.gruenberg@gmail.com
+copyright_name: kathy8
+description: > # this means to ignore newlines until "baseurl:"
+  My journey of personal development and career reinvention in the tech industry 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  kathy8
+learn_profile: kathy8
+email_username: katherine.gruenberg@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
