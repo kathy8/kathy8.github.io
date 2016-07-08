@@ -1,10 +1,10 @@
 # Site settings
-title: This Girl Codes
+title: The Five Star Code
 header-img: img/home-bg.png
 email: katherine.gruenberg@gmail.com
 copyright_name: kathy8
 description: > # this means to ignore newlines until "baseurl:"
-  My journey of personal development and career reinvention in the tech industry 
+  Personal development and career reinvention in the tech industry 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kathy8
