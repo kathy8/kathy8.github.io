@@ -19,7 +19,7 @@ Well I went on a little search and found some amazing sites built on Ruby and wa
 6. Cookpad
 7. Zendesk
 
-Then I bumped into the Ruby on Rails doctrine (http://rubyonrails.org/doctrine/). 
+Then I bumped into the Ruby on Rails doctrine [(http://rubyonrails.org/doctrine/)]
 I think this is a valuable resource to help us visualize the great things we can accomplish.  
 
 
