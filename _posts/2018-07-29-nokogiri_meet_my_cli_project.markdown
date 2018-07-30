@@ -1,10 +1,12 @@
 ---
 layout: post
-title:      "Nokogiri meet my CLI project "
+title:      "Nokogiri meet my CLI project"
 date:       2018-07-29 20:29:49 -0400
 permalink:  nokogiri_meet_my_cli_project
 ---
 
+
+![](https://www.pexels.com/photo/wood-tool-saw-9280/http://)
 
 
 *What am I going to scrape?* 
