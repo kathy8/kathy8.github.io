@@ -6,7 +6,7 @@ permalink:  nokogiri_meet_my_cli_project
 ---
 
 
-![](https://www.pexels.com/photo/wood-tool-saw-9280/http://)
+![](https://www.pexels.com/photo/wood-tool-saw-9280/)
 
 
 *What am I going to scrape?* 
