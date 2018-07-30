@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Nokogiri meet my CLI project "
-date:       2018-07-30 00:29:48 +0000
+date:       2018-07-29 20:29:49 -0400
 permalink:  nokogiri_meet_my_cli_project
 ---
 
-[(https://www.pexels.com/photo/wood-tool-saw-9280/)]
+
 
 *What am I going to scrape?* 
 In my opinion the first step to your CLI Gem Project is fiquring out what site you are going to scrape. This really sets the foundation for your entire project.  I fumbled from idea to idea and looked at what felt like hundreds of sites. I feel I was truly stumped on this the longest. While I beleive that any site is scrapeable for information not all sites are created equal and truly make it challenging to accomplish this task. 
