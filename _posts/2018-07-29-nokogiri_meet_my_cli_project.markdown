@@ -5,11 +5,6 @@ date:       2018-07-29 20:29:49 -0400
 permalink:  nokogiri_meet_my_cli_project
 ---
 
-<img src=https://i.imgur.com/9hxvlJp.png" alt="Wooden Gem Ring" class="img-responsive">
-
-
-
-
 
 *What am I going to scrape?* 
 
