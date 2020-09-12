@@ -1,15 +1,14 @@
 # Site settings
+author: Katherine Gruenberg
 title: The journey into Code
 header-img: img/home-bg.png
 email: katherine.gruenberg@gmail.com
-copyright_name: kathy8
+copyright_name: Katherine Gruenberg
 description: > # this means to ignore newlines until "baseurl:"
   Personal development and career reinvention in the tech industry 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: katherinegruen1
 github_username:  kathy8
-learn_profile: kathy8
-email_username: katherine.gruenberg@gmail.com
 
 # Build settings
 markdown: kramdown
